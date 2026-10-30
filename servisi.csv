@@ -1,0 +1,9 @@
+﻿Serviss;Kļūdas
+postfix;20
+update-agent;22
+sshd;17
+nginx;23
+smbd;20
+cron;16
+backup-agent;13
+cups;15

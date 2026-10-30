@@ -1,0 +1,1200 @@
+2026-10-12 00:04:16 INFO cron: User session opened
+2026-10-12 00:09:28 WARNING cups: Queue length above threshold
+2026-10-12 00:14:13 ERROR postfix: Timeout waiting for backend
+2026-10-12 00:18:03 INFO sshd: Connection accepted
+2026-10-12 00:18:49 INFO update-agent: Service started
+2026-10-12 00:22:44 INFO postfix: Configuration reloaded
+2026-10-12 00:25:29 INFO cups: Backup completed
+2026-10-12 00:28:32 INFO cups: Configuration reloaded
+2026-10-12 00:32:59 WARNING cron: Slow response from upstream
+2026-10-12 00:33:49 WARNING update-agent: Slow response from upstream
+2026-10-12 00:37:48 INFO update-agent: Service started
+2026-10-12 00:43:56 INFO smbd: Update check finished
+2026-10-12 00:47:37 INFO cups: Connection accepted
+2026-10-12 00:52:25 WARNING cron: Retrying connection
+2026-10-12 00:56:49 ERROR postfix: Service failed to start
+2026-10-12 01:01:22 INFO cups: Connection accepted
+2026-10-12 01:05:32 WARNING sshd: Queue length above threshold
+2026-10-12 01:07:31 CRITICAL nginx: Filesystem mounted read-only
+2026-10-12 01:13:36 WARNING cron: Queue length above threshold
+2026-10-12 01:17:20 INFO nginx: Update check finished
+2026-10-12 01:19:22 INFO postfix: Configuration reloaded
+2026-10-12 01:23:27 ERROR update-agent: Timeout waiting for backend
+2026-10-12 01:26:57 ERROR update-agent: Timeout waiting for backend
+2026-10-12 01:33:51 WARNING postfix: Retrying connection
+2026-10-12 01:37:37 INFO update-agent: Backup completed
+2026-10-12 01:37:46 INFO nginx: Configuration reloaded
+2026-10-12 01:42:56 INFO postfix: Backup completed
+2026-10-12 01:44:43 INFO postfix: Update check finished
+2026-10-12 01:49:09 CRITICAL postfix: Out of memory, process killed
+2026-10-12 01:53:59 ERROR sshd: Authentication failed
+2026-10-12 01:56:46 INFO cron: Update check finished
+2026-10-12 02:02:43 ERROR update-agent: Service failed to start
+2026-10-12 02:04:21 INFO postfix: Service started
+2026-10-12 02:09:58 INFO postfix: Backup completed
+2026-10-12 02:10:52 INFO cups: User session opened
+2026-10-12 02:14:47 INFO cron: Service started
+2026-10-12 02:18:43 WARNING cron: Queue length above threshold
+2026-10-12 02:25:34 INFO backup-agent: Service started
+2026-10-12 02:30:56 INFO update-agent: Configuration reloaded
+2026-10-12 02:37:28 WARNING smbd: Certificate expires in 14 days
+2026-10-12 02:37:35 INFO postfix: Configuration reloaded
+2026-10-12 02:43:48 INFO backup-agent: Update check finished
+2026-10-12 02:48:54 INFO update-agent: Service started
+2026-10-12 02:52:32 ERROR nginx: Cannot write to /var/spool
+2026-10-12 02:59:18 WARNING update-agent: Queue length above threshold
+2026-10-12 03:02:53 INFO nginx: Connection accepted
+2026-10-12 03:09:51 INFO cups: Service started
+2026-10-12 03:10:50 INFO cron: Service started
+2026-10-12 03:13:52 WARNING smbd: Disk usage above 80%
+2026-10-12 03:14:10 WARNING postfix: Slow response from upstream
+2026-10-12 03:20:04 INFO postfix: Backup completed
+2026-10-12 03:21:11 WARNING postfix: Queue length above threshold
+2026-10-12 03:26:32 INFO nginx: Connection accepted
+2026-10-12 03:31:03 INFO cups: Connection accepted
+2026-10-12 03:34:00 INFO backup-agent: Configuration reloaded
+2026-10-12 03:40:08 INFO cups: Service started
+2026-10-12 03:41:53 WARNING nginx: Disk usage above 80%
+2026-10-12 03:47:29 WARNING sshd: Retrying connection
+2026-10-12 03:54:00 WARNING backup-agent: Retrying connection
+2026-10-12 04:00:09 ERROR sshd: Cannot write to /var/spool
+2026-10-12 04:05:44 WARNING backup-agent: Queue length above threshold
+2026-10-12 04:06:59 INFO nginx: Update check finished
+2026-10-12 04:09:23 INFO cups: Service started
+2026-10-12 04:12:44 INFO nginx: Backup completed
+2026-10-12 04:14:18 INFO postfix: Update check finished
+2026-10-12 04:21:02 INFO update-agent: Update check finished
+2026-10-12 04:22:37 INFO postfix: Update check finished
+2026-10-12 04:23:43 WARNING update-agent: Disk usage above 80%
+2026-10-12 04:25:37 INFO sshd: Service started
+2026-10-12 04:29:34 WARNING smbd: Retrying connection
+2026-10-12 04:34:18 ERROR nginx: Connection refused
+2026-10-12 04:37:23 INFO smbd: Connection accepted
+2026-10-12 04:43:19 WARNING backup-agent: Disk usage above 80%
+2026-10-12 04:48:41 ERROR update-agent: Timeout waiting for backend
+2026-10-12 04:55:10 WARNING backup-agent: Queue length above threshold
+2026-10-12 04:57:45 WARNING update-agent: Queue length above threshold
+2026-10-12 04:58:57 INFO update-agent: Service started
+2026-10-12 05:02:45 INFO cron: Configuration reloaded
+2026-10-12 05:03:20 ERROR smbd: Cannot write to /var/spool
+2026-10-12 05:08:55 WARNING cron: Queue length above threshold
+2026-10-12 05:11:40 INFO cron: Backup completed
+2026-10-12 05:14:26 INFO update-agent: Backup completed
+2026-10-12 05:15:03 INFO cups: Backup completed
+2026-10-12 05:18:40 INFO sshd: Service started
+2026-10-12 05:20:45 INFO update-agent: Service started
+2026-10-12 05:21:38 ERROR smbd: Authentication failed
+2026-10-12 05:28:22 INFO sshd: Update check finished
+2026-10-12 05:31:08 WARNING backup-agent: Queue length above threshold
+2026-10-12 05:35:09 INFO cron: Configuration reloaded
+2026-10-12 05:38:25 WARNING update-agent: Retrying connection
+2026-10-12 05:40:59 INFO sshd: Configuration reloaded
+2026-10-12 05:47:10 INFO sshd: Backup completed
+2026-10-12 05:53:10 INFO update-agent: Configuration reloaded
+2026-10-12 05:59:48 INFO update-agent: Update check finished
+2026-10-12 06:02:36 WARNING sshd: Queue length above threshold
+2026-10-12 06:05:36 INFO sshd: Configuration reloaded
+2026-10-12 06:06:38 INFO cron: Service started
+2026-10-12 06:07:02 INFO smbd: Connection accepted
+2026-10-12 06:12:38 WARNING update-agent: Disk usage above 80%
+2026-10-12 06:16:20 WARNING nginx: Slow response from upstream
+2026-10-12 06:19:57 INFO cups: User session opened
+2026-10-12 06:26:39 INFO backup-agent: User session opened
+2026-10-12 06:28:17 WARNING sshd: Queue length above threshold
+2026-10-12 06:34:12 WARNING cups: Slow response from upstream
+2026-10-12 06:40:59 INFO backup-agent: Service started
+2026-10-12 06:41:12 INFO postfix: Update check finished
+2026-10-12 06:43:32 INFO nginx: Configuration reloaded
+2026-10-12 06:48:40 INFO nginx: Connection accepted
+2026-10-12 06:49:04 WARNING update-agent: Slow response from upstream
+2026-10-12 06:54:33 WARNING smbd: Disk usage above 80%
+2026-10-12 07:00:14 INFO backup-agent: Update check finished
+2026-10-12 07:00:48 INFO nginx: Configuration reloaded
+2026-10-12 07:04:17 ERROR smbd: Cannot write to /var/spool
+2026-10-12 07:09:09 INFO smbd: User session opened
+2026-10-12 07:12:25 INFO postfix: Configuration reloaded
+2026-10-12 07:16:24 WARNING postfix: Queue length above threshold
+2026-10-12 07:19:08 INFO nginx: Configuration reloaded
+2026-10-12 07:22:43 INFO postfix: Service started
+2026-10-12 07:25:49 WARNING cups: Disk usage above 80%
+2026-10-12 07:31:21 INFO cron: Backup completed
+2026-10-12 07:34:36 WARNING update-agent: Certificate expires in 14 days
+2026-10-12 07:40:46 ERROR cron: Connection refused
+2026-10-12 07:45:24 INFO update-agent: Connection accepted
+2026-10-12 07:45:51 INFO cups: Connection accepted
+2026-10-12 07:50:20 WARNING nginx: Queue length above threshold
+2026-10-12 07:51:18 INFO nginx: Configuration reloaded
+2026-10-12 07:54:42 INFO update-agent: Backup completed
+2026-10-12 07:55:08 ERROR backup-agent: Cannot write to /var/spool
+2026-10-12 07:57:42 INFO update-agent: Backup completed
+2026-10-12 07:58:55 INFO backup-agent: Configuration reloaded
+2026-10-12 08:04:22 INFO postfix: Update check finished
+2026-10-12 08:07:29 CRITICAL nginx: Filesystem mounted read-only
+2026-10-12 08:09:05 INFO nginx: User session opened
+2026-10-12 08:09:24 INFO sshd: Backup completed
+2026-10-12 08:10:01 INFO update-agent: User session opened
+2026-10-12 08:14:38 INFO backup-agent: User session opened
+2026-10-12 08:15:37 INFO postfix: Service started
+2026-10-12 08:21:54 INFO cups: Backup completed
+2026-10-12 08:27:14 INFO cron: Backup completed
+2026-10-12 08:31:21 WARNING cron: Queue length above threshold
+2026-10-12 08:35:51 INFO smbd: Configuration reloaded
+2026-10-12 08:39:49 WARNING smbd: Disk usage above 80%
+2026-10-12 08:40:29 CRITICAL cron: Out of memory, process killed
+2026-10-12 08:47:12 INFO update-agent: Configuration reloaded
+2026-10-12 08:49:12 INFO smbd: Update check finished
+2026-10-12 08:53:36 WARNING smbd: Slow response from upstream
+2026-10-12 08:59:51 ERROR postfix: Service failed to start
+2026-10-12 09:02:36 INFO backup-agent: Update check finished
+2026-10-12 09:04:33 ERROR smbd: Authentication failed
+2026-10-12 09:08:07 WARNING cups: Certificate expires in 14 days
+2026-10-12 09:09:31 INFO nginx: Update check finished
+2026-10-12 09:11:53 INFO cron: Backup completed
+2026-10-12 09:14:14 INFO update-agent: User session opened
+2026-10-12 09:18:58 WARNING update-agent: Certificate expires in 14 days
+2026-10-12 09:21:52 INFO cron: Backup completed
+2026-10-12 09:24:27 WARNING postfix: Retrying connection
+2026-10-12 09:27:56 INFO smbd: Configuration reloaded
+2026-10-12 09:31:30 INFO cron: Configuration reloaded
+2026-10-12 09:38:07 WARNING backup-agent: Retrying connection
+2026-10-12 09:41:12 WARNING smbd: Disk usage above 80%
+2026-10-12 09:44:41 ERROR nginx: Connection refused
+2026-10-12 09:47:02 WARNING update-agent: Certificate expires in 14 days
+2026-10-12 09:49:58 WARNING cups: Retrying connection
+2026-10-12 09:54:10 INFO sshd: Service started
+2026-10-12 10:00:42 INFO cron: Configuration reloaded
+2026-10-12 10:03:04 INFO sshd: User session opened
+2026-10-12 10:09:53 INFO update-agent: Connection accepted
+2026-10-12 10:15:20 INFO cron: Connection accepted
+2026-10-12 10:21:19 INFO sshd: Service started
+2026-10-12 10:22:43 INFO backup-agent: Update check finished
+2026-10-12 10:24:33 WARNING nginx: Slow response from upstream
+2026-10-12 10:25:21 WARNING cups: Queue length above threshold
+2026-10-12 10:31:14 WARNING nginx: Disk usage above 80%
+2026-10-12 10:31:33 INFO cups: Service started
+2026-10-12 10:33:12 WARNING backup-agent: Retrying connection
+2026-10-12 10:38:53 ERROR smbd: Authentication failed
+2026-10-12 10:41:55 INFO postfix: Backup completed
+2026-10-12 10:46:10 INFO update-agent: Service started
+2026-10-12 10:51:44 WARNING nginx: Disk usage above 80%
+2026-10-12 10:55:55 INFO update-agent: Update check finished
+2026-10-12 10:57:41 INFO update-agent: Connection accepted
+2026-10-12 11:04:00 INFO update-agent: User session opened
+2026-10-12 11:09:02 INFO cups: Service started
+2026-10-12 11:15:18 ERROR update-agent: Service failed to start
+2026-10-12 11:20:38 INFO smbd: Update check finished
+2026-10-12 11:23:25 ERROR smbd: Authentication failed
+2026-10-12 11:25:02 INFO nginx: Backup completed
+2026-10-12 11:29:37 WARNING cups: Disk usage above 80%
+2026-10-12 11:34:53 INFO sshd: Update check finished
+2026-10-12 11:37:01 INFO cups: Connection accepted
+2026-10-12 11:41:35 INFO backup-agent: Backup completed
+2026-10-12 11:48:17 ERROR postfix: Cannot write to /var/spool
+2026-10-12 11:53:08 ERROR smbd: Authentication failed
+2026-10-12 11:58:46 INFO backup-agent: User session opened
+2026-10-12 12:04:01 WARNING nginx: Certificate expires in 14 days
+2026-10-12 12:05:13 ERROR sshd: Connection refused
+2026-10-12 12:07:41 INFO nginx: User session opened
+2026-10-12 12:10:02 WARNING smbd: Certificate expires in 14 days
+2026-10-12 12:14:01 INFO nginx: Configuration reloaded
+2026-10-12 12:14:33 ERROR nginx: Cannot write to /var/spool
+2026-10-12 12:18:09 WARNING postfix: Queue length above threshold
+2026-10-12 12:18:28 INFO backup-agent: Connection accepted
+2026-10-12 12:21:39 WARNING cron: Retrying connection
+2026-10-12 12:27:32 ERROR cups: Cannot write to /var/spool
+2026-10-12 12:30:23 INFO sshd: Update check finished
+2026-10-12 12:30:31 INFO cron: Backup completed
+2026-10-12 12:35:36 ERROR update-agent: Authentication failed
+2026-10-12 12:42:08 INFO nginx: Connection accepted
+2026-10-12 12:43:50 INFO cups: Configuration reloaded
+2026-10-12 12:47:36 INFO nginx: User session opened
+2026-10-12 12:49:36 ERROR postfix: Cannot write to /var/spool
+2026-10-12 12:52:51 INFO cups: Configuration reloaded
+2026-10-12 12:56:32 INFO smbd: Configuration reloaded
+2026-10-12 12:58:24 INFO postfix: Connection accepted
+2026-10-12 13:03:39 INFO cron: User session opened
+2026-10-12 13:10:02 INFO cron: Service started
+2026-10-12 13:13:08 ERROR nginx: Connection refused
+2026-10-12 13:14:41 INFO cups: User session opened
+2026-10-12 13:18:25 INFO nginx: Configuration reloaded
+2026-10-12 13:23:54 INFO update-agent: Configuration reloaded
+2026-10-12 13:27:05 INFO sshd: Update check finished
+2026-10-12 13:31:36 INFO update-agent: Backup completed
+2026-10-12 13:35:50 INFO cron: User session opened
+2026-10-12 13:40:41 INFO smbd: Update check finished
+2026-10-12 13:43:59 WARNING sshd: Queue length above threshold
+2026-10-12 13:46:51 ERROR update-agent: Connection refused
+2026-10-12 13:50:52 INFO smbd: Connection accepted
+2026-10-12 13:57:44 WARNING cron: Slow response from upstream
+2026-10-12 14:00:20 INFO cron: Connection accepted
+2026-10-12 14:00:46 INFO postfix: Connection accepted
+2026-10-12 14:01:46 INFO postfix: Connection accepted
+2026-10-12 14:05:56 WARNING sshd: Certificate expires in 14 days
+2026-10-12 14:08:44 INFO sshd: Service started
+2026-10-12 14:12:09 INFO nginx: Connection accepted
+2026-10-12 14:14:24 INFO sshd: Configuration reloaded
+2026-10-12 14:15:05 ERROR cron: Authentication failed
+2026-10-12 14:21:17 INFO update-agent: Update check finished
+2026-10-12 14:23:25 INFO postfix: Configuration reloaded
+2026-10-12 14:25:34 INFO backup-agent: Connection accepted
+2026-10-12 14:28:19 INFO sshd: Update check finished
+2026-10-12 14:30:31 WARNING nginx: Retrying connection
+2026-10-12 14:32:12 CRITICAL cron: Out of memory, process killed
+2026-10-12 14:37:19 INFO postfix: Connection accepted
+2026-10-12 14:37:32 WARNING backup-agent: Retrying connection
+2026-10-12 14:43:50 INFO postfix: User session opened
+2026-10-12 14:46:25 INFO smbd: Backup completed
+2026-10-12 14:53:02 INFO sshd: Backup completed
+2026-10-12 14:58:15 WARNING nginx: Queue length above threshold
+2026-10-12 14:59:22 WARNING smbd: Certificate expires in 14 days
+2026-10-12 15:04:27 INFO nginx: Update check finished
+2026-10-12 15:07:59 INFO cron: Update check finished
+2026-10-12 15:11:29 INFO backup-agent: User session opened
+2026-10-12 15:12:00 INFO nginx: Connection accepted
+2026-10-12 15:14:21 INFO cron: Backup completed
+2026-10-12 15:15:51 INFO backup-agent: Configuration reloaded
+2026-10-12 15:21:19 ERROR cron: Service failed to start
+2026-10-12 15:26:05 ERROR sshd: Authentication failed
+2026-10-12 15:32:05 INFO sshd: User session opened
+2026-10-12 15:37:43 WARNING postfix: Disk usage above 80%
+2026-10-12 15:40:17 INFO nginx: Configuration reloaded
+2026-10-12 15:40:55 INFO backup-agent: Service started
+2026-10-12 15:43:26 WARNING sshd: Retrying connection
+2026-10-12 15:45:43 INFO nginx: Connection accepted
+2026-10-12 15:51:13 WARNING backup-agent: Retrying connection
+2026-10-12 15:51:45 WARNING smbd: Certificate expires in 14 days
+2026-10-12 15:56:24 INFO postfix: Service started
+2026-10-12 15:58:33 INFO sshd: Update check finished
+2026-10-12 16:01:55 WARNING cron: Retrying connection
+2026-10-12 16:07:45 WARNING nginx: Certificate expires in 14 days
+2026-10-12 16:09:51 INFO backup-agent: Connection accepted
+2026-10-12 16:16:23 INFO cups: Backup completed
+2026-10-12 16:21:58 WARNING nginx: Retrying connection
+2026-10-12 16:22:50 INFO smbd: Service started
+2026-10-12 16:29:17 ERROR nginx: Timeout waiting for backend
+2026-10-12 16:33:46 CRITICAL backup-agent: Out of memory, process killed
+2026-10-12 16:39:46 INFO smbd: User session opened
+2026-10-12 16:44:04 WARNING cron: Certificate expires in 14 days
+2026-10-12 16:44:09 INFO cron: Configuration reloaded
+2026-10-12 16:48:28 WARNING cups: Queue length above threshold
+2026-10-12 16:51:26 WARNING smbd: Disk usage above 80%
+2026-10-12 16:57:51 ERROR sshd: Authentication failed
+2026-10-12 16:59:57 INFO cups: User session opened
+2026-10-12 17:02:37 WARNING nginx: Slow response from upstream
+2026-10-12 17:09:04 WARNING sshd: Disk usage above 80%
+2026-10-12 17:12:04 ERROR nginx: Service failed to start
+2026-10-12 17:17:11 INFO backup-agent: Configuration reloaded
+2026-10-12 17:21:17 ERROR nginx: Timeout waiting for backend
+2026-10-12 17:25:39 ERROR postfix: Connection refused
+2026-10-12 17:26:18 INFO sshd: Connection accepted
+2026-10-12 17:30:53 INFO nginx: Update check finished
+2026-10-12 17:33:07 INFO postfix: Connection accepted
+2026-10-12 17:35:43 INFO cups: Configuration reloaded
+2026-10-12 17:41:08 INFO postfix: Connection accepted
+2026-10-12 17:42:15 INFO backup-agent: Backup completed
+2026-10-12 17:46:07 INFO cups: Backup completed
+2026-10-12 17:49:56 CRITICAL postfix: Out of memory, process killed
+2026-10-12 17:52:09 INFO cups: Update check finished
+2026-10-12 17:54:45 INFO nginx: Service started
+2026-10-12 18:00:03 WARNING sshd: Certificate expires in 14 days
+2026-10-12 18:01:57 ERROR update-agent: Service failed to start
+2026-10-12 18:03:57 ERROR smbd: Cannot write to /var/spool
+2026-10-12 18:10:51 INFO backup-agent: Update check finished
+2026-10-12 18:12:01 WARNING smbd: Queue length above threshold
+2026-10-12 18:15:28 INFO update-agent: Connection accepted
+2026-10-12 18:20:08 INFO update-agent: Backup completed
+2026-10-12 18:24:04 INFO nginx: Connection accepted
+2026-10-12 18:26:43 INFO backup-agent: Backup completed
+2026-10-12 18:28:14 INFO nginx: Update check finished
+2026-10-12 18:31:31 WARNING postfix: Disk usage above 80%
+2026-10-12 18:36:49 INFO sshd: Connection accepted
+2026-10-12 18:41:17 INFO update-agent: Update check finished
+2026-10-12 18:43:17 ERROR update-agent: Timeout waiting for backend
+2026-10-12 18:47:41 INFO smbd: Update check finished
+2026-10-12 18:52:15 INFO sshd: Update check finished
+2026-10-12 18:56:49 INFO cups: Connection accepted
+2026-10-12 19:00:00 INFO cups: Backup completed
+2026-10-12 19:06:25 INFO cron: User session opened
+2026-10-12 19:08:20 INFO postfix: Connection accepted
+2026-10-12 19:11:46 INFO nginx: Update check finished
+2026-10-12 19:16:13 INFO smbd: Service started
+2026-10-12 19:20:57 INFO cron: Service started
+2026-10-12 19:22:53 INFO cron: Update check finished
+2026-10-12 19:28:05 INFO cron: Update check finished
+2026-10-12 19:30:10 INFO update-agent: Service started
+2026-10-12 19:31:04 INFO smbd: Configuration reloaded
+2026-10-12 19:32:26 INFO cups: Service started
+2026-10-12 19:38:00 INFO backup-agent: Connection accepted
+2026-10-12 19:42:13 INFO nginx: Service started
+2026-10-12 19:43:02 INFO backup-agent: User session opened
+2026-10-12 19:46:54 INFO cron: Connection accepted
+2026-10-12 19:53:46 INFO nginx: Service started
+2026-10-12 19:54:01 ERROR postfix: Service failed to start
+2026-10-12 19:54:38 INFO postfix: Service started
+2026-10-12 19:58:32 INFO smbd: Configuration reloaded
+2026-10-12 19:59:27 INFO cups: User session opened
+2026-10-12 20:03:11 WARNING cron: Slow response from upstream
+2026-10-12 20:09:20 WARNING backup-agent: Retrying connection
+2026-10-12 20:10:20 INFO nginx: Service started
+2026-10-12 20:11:37 WARNING update-agent: Slow response from upstream
+2026-10-12 20:18:19 INFO cron: Configuration reloaded
+2026-10-12 20:20:19 INFO cron: Update check finished
+2026-10-12 20:25:48 INFO update-agent: Backup completed
+2026-10-12 20:29:31 WARNING update-agent: Certificate expires in 14 days
+2026-10-12 20:35:55 WARNING nginx: Queue length above threshold
+2026-10-12 20:39:34 INFO sshd: Connection accepted
+2026-10-12 20:44:51 INFO postfix: Backup completed
+2026-10-12 20:48:27 ERROR update-agent: Cannot write to /var/spool
+2026-10-12 20:54:34 CRITICAL postfix: Filesystem mounted read-only
+2026-10-12 20:57:42 WARNING update-agent: Slow response from upstream
+2026-10-12 21:00:26 INFO backup-agent: Service started
+2026-10-12 21:02:12 WARNING smbd: Slow response from upstream
+2026-10-12 21:08:29 WARNING cron: Slow response from upstream
+2026-10-12 21:12:01 WARNING cups: Queue length above threshold
+2026-10-12 21:16:02 WARNING cups: Disk usage above 80%
+2026-10-12 21:19:17 INFO postfix: Connection accepted
+2026-10-12 21:22:08 WARNING cups: Slow response from upstream
+2026-10-12 21:22:20 ERROR smbd: Service failed to start
+2026-10-12 21:28:41 INFO update-agent: Update check finished
+2026-10-12 21:28:51 INFO cups: Update check finished
+2026-10-12 21:29:18 WARNING sshd: Slow response from upstream
+2026-10-12 21:33:59 WARNING sshd: Disk usage above 80%
+2026-10-12 21:40:38 INFO cups: Backup completed
+2026-10-12 21:43:59 INFO update-agent: Service started
+2026-10-12 21:45:49 INFO sshd: Service started
+2026-10-12 21:47:51 INFO sshd: Configuration reloaded
+2026-10-12 21:51:03 WARNING postfix: Disk usage above 80%
+2026-10-12 21:56:54 WARNING sshd: Slow response from upstream
+2026-10-12 21:58:03 INFO cups: User session opened
+2026-10-12 21:59:07 ERROR cron: Connection refused
+2026-10-12 22:05:58 INFO cups: Service started
+2026-10-12 22:07:13 INFO sshd: Backup completed
+2026-10-12 22:10:47 INFO postfix: User session opened
+2026-10-12 22:11:18 INFO update-agent: User session opened
+2026-10-12 22:13:39 WARNING nginx: Queue length above threshold
+2026-10-12 22:17:07 ERROR sshd: Connection refused
+2026-10-12 22:21:04 WARNING cups: Retrying connection
+2026-10-12 22:24:54 WARNING nginx: Disk usage above 80%
+2026-10-12 22:27:26 CRITICAL cron: Filesystem mounted read-only
+2026-10-12 22:31:11 INFO update-agent: Configuration reloaded
+2026-10-12 22:35:12 WARNING nginx: Certificate expires in 14 days
+2026-10-12 22:38:01 INFO update-agent: Service started
+2026-10-12 22:38:58 INFO postfix: Update check finished
+2026-10-12 22:39:42 INFO cups: Service started
+2026-10-12 22:39:52 INFO cron: Backup completed
+2026-10-12 22:44:39 INFO backup-agent: Backup completed
+2026-10-12 22:46:55 INFO update-agent: Connection accepted
+2026-10-12 22:51:47 INFO cron: Configuration reloaded
+2026-10-12 22:53:47 INFO smbd: User session opened
+2026-10-12 22:55:19 INFO backup-agent: Connection accepted
+2026-10-12 22:57:33 ERROR cron: Service failed to start
+2026-10-12 22:59:46 WARNING postfix: Slow response from upstream
+2026-10-12 23:01:28 INFO nginx: Backup completed
+2026-10-12 23:05:35 INFO nginx: Connection accepted
+2026-10-12 23:08:06 WARNING sshd: Queue length above threshold
+2026-10-12 23:11:07 INFO update-agent: Update check finished
+2026-10-12 23:16:37 INFO update-agent: User session opened
+2026-10-12 23:18:59 INFO cups: Configuration reloaded
+2026-10-12 23:19:56 INFO update-agent: Service started
+2026-10-12 23:22:13 ERROR cups: Connection refused
+2026-10-12 23:26:23 INFO update-agent: Backup completed
+2026-10-12 23:27:35 ERROR sshd: Connection refused
+2026-10-12 23:30:09 ERROR cups: Connection refused
+2026-10-12 23:31:57 WARNING backup-agent: Queue length above threshold
+2026-10-12 23:32:07 INFO smbd: User session opened
+2026-10-12 23:32:26 WARNING smbd: Disk usage above 80%
+2026-10-12 23:34:40 WARNING cups: Slow response from upstream
+2026-10-12 23:39:21 ERROR backup-agent: Connection refused
+2026-10-12 23:42:29 ERROR postfix: Service failed to start
+2026-10-12 23:48:27 INFO sshd: Configuration reloaded
+2026-10-12 23:54:05 INFO smbd: User session opened
+2026-10-12 23:58:47 INFO smbd: Update check finished
+2026-10-13 00:03:27 ERROR cron: Connection refused
+2026-10-13 00:07:13 INFO sshd: Configuration reloaded
+2026-10-13 00:12:24 INFO postfix: User session opened
+2026-10-13 00:18:06 INFO cups: Service started
+2026-10-13 00:24:16 WARNING smbd: Disk usage above 80%
+2026-10-13 00:26:36 INFO backup-agent: Update check finished
+2026-10-13 00:28:36 WARNING backup-agent: Slow response from upstream
+2026-10-13 00:30:30 INFO sshd: Service started
+2026-10-13 00:30:54 ERROR postfix: Authentication failed
+2026-10-13 00:32:27 INFO nginx: User session opened
+2026-10-13 00:38:31 WARNING update-agent: Certificate expires in 14 days
+2026-10-13 00:41:13 ERROR cups: Authentication failed
+2026-10-13 00:44:54 INFO cups: User session opened
+2026-10-13 00:45:44 INFO cups: Backup completed
+2026-10-13 00:47:39 WARNING postfix: Slow response from upstream
+2026-10-13 00:54:19 INFO backup-agent: Configuration reloaded
+2026-10-13 01:01:17 ERROR smbd: Timeout waiting for backend
+2026-10-13 01:02:07 INFO update-agent: User session opened
+2026-10-13 01:02:52 INFO nginx: User session opened
+2026-10-13 01:09:06 CRITICAL backup-agent: Out of memory, process killed
+2026-10-13 01:14:29 INFO postfix: Update check finished
+2026-10-13 01:14:55 INFO update-agent: Configuration reloaded
+2026-10-13 01:15:46 WARNING sshd: Slow response from upstream
+2026-10-13 01:22:29 INFO smbd: Configuration reloaded
+2026-10-13 01:29:28 INFO cups: Connection accepted
+2026-10-13 01:33:54 INFO smbd: Update check finished
+2026-10-13 01:34:45 INFO update-agent: Service started
+2026-10-13 01:40:51 INFO nginx: User session opened
+2026-10-13 01:43:42 WARNING smbd: Certificate expires in 14 days
+2026-10-13 01:46:02 WARNING update-agent: Disk usage above 80%
+2026-10-13 01:51:54 INFO nginx: Connection accepted
+2026-10-13 01:54:19 CRITICAL postfix: Out of memory, process killed
+2026-10-13 01:58:19 WARNING cron: Queue length above threshold
+2026-10-13 01:59:29 INFO update-agent: Update check finished
+2026-10-13 01:59:38 INFO cups: Service started
+2026-10-13 02:04:59 INFO cups: Connection accepted
+2026-10-13 02:10:57 INFO sshd: Service started
+2026-10-13 02:11:30 INFO sshd: Configuration reloaded
+2026-10-13 02:14:15 WARNING nginx: Disk usage above 80%
+2026-10-13 02:14:30 WARNING sshd: Disk usage above 80%
+2026-10-13 02:19:38 INFO postfix: Service started
+2026-10-13 02:21:24 ERROR nginx: Service failed to start
+2026-10-13 02:23:11 INFO sshd: Backup completed
+2026-10-13 02:27:07 INFO backup-agent: Service started
+2026-10-13 02:29:51 WARNING postfix: Retrying connection
+2026-10-13 02:35:51 WARNING cron: Retrying connection
+2026-10-13 02:41:59 INFO cron: Service started
+2026-10-13 02:44:40 INFO backup-agent: Backup completed
+2026-10-13 02:45:27 INFO sshd: User session opened
+2026-10-13 02:45:46 INFO backup-agent: Service started
+2026-10-13 02:46:16 INFO sshd: Configuration reloaded
+2026-10-13 02:48:06 INFO sshd: Backup completed
+2026-10-13 02:49:36 INFO backup-agent: Update check finished
+2026-10-13 02:50:25 INFO postfix: Service started
+2026-10-13 02:53:22 INFO nginx: Connection accepted
+2026-10-13 02:55:32 INFO cron: User session opened
+2026-10-13 02:59:11 INFO sshd: Connection accepted
+2026-10-13 03:05:16 INFO nginx: Connection accepted
+2026-10-13 03:12:16 INFO postfix: Service started
+2026-10-13 03:15:14 WARNING nginx: Queue length above threshold
+2026-10-13 03:21:22 WARNING nginx: Certificate expires in 14 days
+2026-10-13 03:26:31 WARNING cron: Certificate expires in 14 days
+2026-10-13 03:28:16 WARNING sshd: Certificate expires in 14 days
+2026-10-13 03:32:30 ERROR cron: Timeout waiting for backend
+2026-10-13 03:36:09 INFO smbd: Connection accepted
+2026-10-13 03:37:15 INFO cron: Backup completed
+2026-10-13 03:41:30 INFO cups: Update check finished
+2026-10-13 03:44:29 INFO update-agent: Connection accepted
+2026-10-13 03:47:14 INFO cups: Update check finished
+2026-10-13 03:49:16 INFO cron: Update check finished
+2026-10-13 03:53:36 INFO nginx: Backup completed
+2026-10-13 03:58:38 INFO backup-agent: Backup completed
+2026-10-13 04:03:23 ERROR cron: Cannot write to /var/spool
+2026-10-13 04:05:44 INFO postfix: Configuration reloaded
+2026-10-13 04:11:37 ERROR nginx: Service failed to start
+2026-10-13 04:13:57 INFO cups: Update check finished
+2026-10-13 04:20:55 INFO nginx: Connection accepted
+2026-10-13 04:21:12 ERROR nginx: Connection refused
+2026-10-13 04:25:47 ERROR nginx: Authentication failed
+2026-10-13 04:27:11 WARNING nginx: Disk usage above 80%
+2026-10-13 04:33:38 INFO nginx: Update check finished
+2026-10-13 04:35:06 WARNING backup-agent: Retrying connection
+2026-10-13 04:41:05 INFO smbd: Service started
+2026-10-13 04:44:25 INFO cron: Connection accepted
+2026-10-13 04:48:56 WARNING postfix: Disk usage above 80%
+2026-10-13 04:51:33 INFO smbd: Service started
+2026-10-13 04:55:34 WARNING sshd: Disk usage above 80%
+2026-10-13 04:57:38 INFO nginx: Backup completed
+2026-10-13 04:59:14 INFO smbd: Configuration reloaded
+2026-10-13 05:03:02 ERROR backup-agent: Service failed to start
+2026-10-13 05:07:36 INFO postfix: Update check finished
+2026-10-13 05:13:36 INFO nginx: Service started
+2026-10-13 05:19:33 WARNING cups: Disk usage above 80%
+2026-10-13 05:21:07 INFO backup-agent: Connection accepted
+2026-10-13 05:24:08 INFO sshd: Update check finished
+2026-10-13 05:24:34 INFO nginx: User session opened
+2026-10-13 05:26:28 WARNING cups: Queue length above threshold
+2026-10-13 05:29:54 WARNING smbd: Certificate expires in 14 days
+2026-10-13 05:32:12 INFO nginx: Update check finished
+2026-10-13 05:34:48 CRITICAL cups: Out of memory, process killed
+2026-10-13 05:37:37 INFO cron: User session opened
+2026-10-13 05:44:04 INFO cron: Service started
+2026-10-13 05:50:23 ERROR sshd: Service failed to start
+2026-10-13 05:52:07 ERROR postfix: Connection refused
+2026-10-13 05:58:23 ERROR postfix: Connection refused
+2026-10-13 06:03:58 INFO nginx: Backup completed
+2026-10-13 06:05:58 INFO smbd: Service started
+2026-10-13 06:09:36 INFO smbd: Service started
+2026-10-13 06:14:45 WARNING cups: Queue length above threshold
+2026-10-13 06:14:58 CRITICAL cron: Out of memory, process killed
+2026-10-13 06:17:12 INFO cron: Update check finished
+2026-10-13 06:17:56 INFO backup-agent: Configuration reloaded
+2026-10-13 06:18:13 INFO nginx: Backup completed
+2026-10-13 06:18:18 INFO cron: Backup completed
+2026-10-13 06:19:44 INFO smbd: Configuration reloaded
+2026-10-13 06:20:49 INFO update-agent: Connection accepted
+2026-10-13 06:22:04 WARNING update-agent: Disk usage above 80%
+2026-10-13 06:29:02 WARNING backup-agent: Slow response from upstream
+2026-10-13 06:30:06 WARNING sshd: Queue length above threshold
+2026-10-13 06:31:19 INFO cups: Configuration reloaded
+2026-10-13 06:36:49 INFO backup-agent: Backup completed
+2026-10-13 06:43:43 INFO cron: Configuration reloaded
+2026-10-13 06:44:54 INFO nginx: User session opened
+2026-10-13 06:50:58 WARNING cups: Certificate expires in 14 days
+2026-10-13 06:55:13 WARNING postfix: Retrying connection
+2026-10-13 06:58:40 INFO update-agent: Configuration reloaded
+2026-10-13 06:58:51 INFO update-agent: User session opened
+2026-10-13 07:01:22 INFO smbd: Backup completed
+2026-10-13 07:07:14 INFO update-agent: User session opened
+2026-10-13 07:13:46 INFO cups: Backup completed
+2026-10-13 07:14:27 WARNING nginx: Queue length above threshold
+2026-10-13 07:21:26 WARNING postfix: Slow response from upstream
+2026-10-13 07:23:41 ERROR postfix: Service failed to start
+2026-10-13 07:27:11 INFO update-agent: Configuration reloaded
+2026-10-13 07:31:15 INFO backup-agent: Connection accepted
+2026-10-13 07:33:16 INFO sshd: Configuration reloaded
+2026-10-13 07:36:26 INFO sshd: Backup completed
+2026-10-13 07:41:25 INFO smbd: Update check finished
+2026-10-13 07:41:35 WARNING cups: Disk usage above 80%
+2026-10-13 07:44:32 INFO update-agent: Configuration reloaded
+2026-10-13 07:46:29 INFO backup-agent: Connection accepted
+2026-10-13 07:50:32 ERROR nginx: Service failed to start
+2026-10-13 07:55:15 INFO postfix: Service started
+2026-10-13 07:55:25 WARNING cups: Slow response from upstream
+2026-10-13 07:57:40 INFO cups: Connection accepted
+2026-10-13 08:00:21 INFO backup-agent: Update check finished
+2026-10-13 08:01:57 INFO smbd: Update check finished
+2026-10-13 08:06:38 INFO nginx: Update check finished
+2026-10-13 08:10:02 ERROR sshd: Service failed to start
+2026-10-13 08:13:00 INFO cups: Backup completed
+2026-10-13 08:13:45 INFO update-agent: Connection accepted
+2026-10-13 08:14:19 WARNING nginx: Disk usage above 80%
+2026-10-13 08:20:02 INFO cups: User session opened
+2026-10-13 08:26:59 INFO sshd: Connection accepted
+2026-10-13 08:32:24 WARNING postfix: Retrying connection
+2026-10-13 08:37:22 INFO backup-agent: Configuration reloaded
+2026-10-13 08:43:34 WARNING postfix: Disk usage above 80%
+2026-10-13 08:44:36 INFO sshd: Connection accepted
+2026-10-13 08:49:06 WARNING postfix: Retrying connection
+2026-10-13 08:54:53 INFO sshd: User session opened
+2026-10-13 09:01:25 WARNING nginx: Certificate expires in 14 days
+2026-10-13 09:01:36 WARNING sshd: Disk usage above 80%
+2026-10-13 09:07:02 INFO nginx: Connection accepted
+2026-10-13 09:11:33 INFO update-agent: User session opened
+2026-10-13 09:15:53 WARNING nginx: Disk usage above 80%
+2026-10-13 09:21:57 INFO nginx: Backup completed
+2026-10-13 09:24:18 INFO cron: Update check finished
+2026-10-13 09:31:00 INFO update-agent: Update check finished
+2026-10-13 09:37:56 INFO update-agent: User session opened
+2026-10-13 09:39:25 WARNING backup-agent: Disk usage above 80%
+2026-10-13 09:43:11 ERROR postfix: Service failed to start
+2026-10-13 09:47:05 WARNING nginx: Disk usage above 80%
+2026-10-13 09:49:36 INFO smbd: User session opened
+2026-10-13 09:56:09 INFO update-agent: Update check finished
+2026-10-13 10:01:42 WARNING cups: Retrying connection
+2026-10-13 10:02:55 WARNING smbd: Certificate expires in 14 days
+2026-10-13 10:03:32 WARNING sshd: Certificate expires in 14 days
+2026-10-13 10:05:27 INFO cron: User session opened
+2026-10-13 10:11:45 INFO cups: Connection accepted
+2026-10-13 10:15:23 WARNING nginx: Certificate expires in 14 days
+2026-10-13 10:19:26 INFO backup-agent: Connection accepted
+2026-10-13 10:21:07 CRITICAL cron: Filesystem mounted read-only
+2026-10-13 10:26:01 INFO postfix: Service started
+2026-10-13 10:29:16 ERROR sshd: Cannot write to /var/spool
+2026-10-13 10:34:47 ERROR smbd: Cannot write to /var/spool
+2026-10-13 10:40:07 INFO sshd: Update check finished
+2026-10-13 10:42:42 INFO smbd: Update check finished
+2026-10-13 10:45:31 WARNING backup-agent: Retrying connection
+2026-10-13 10:46:25 WARNING cups: Certificate expires in 14 days
+2026-10-13 10:49:01 INFO nginx: Update check finished
+2026-10-13 10:55:53 INFO cups: Configuration reloaded
+2026-10-13 10:58:10 INFO sshd: Service started
+2026-10-13 10:58:54 INFO smbd: Connection accepted
+2026-10-13 11:05:25 INFO cups: Service started
+2026-10-13 11:10:23 INFO smbd: Configuration reloaded
+2026-10-13 11:15:00 INFO smbd: Configuration reloaded
+2026-10-13 11:21:35 INFO sshd: Update check finished
+2026-10-13 11:27:03 INFO smbd: Service started
+2026-10-13 11:29:33 WARNING cron: Disk usage above 80%
+2026-10-13 11:30:35 INFO backup-agent: Service started
+2026-10-13 11:37:29 INFO cups: Service started
+2026-10-13 11:39:46 ERROR sshd: Timeout waiting for backend
+2026-10-13 11:45:55 INFO postfix: Connection accepted
+2026-10-13 11:52:13 INFO smbd: Configuration reloaded
+2026-10-13 11:58:56 ERROR cups: Connection refused
+2026-10-13 11:59:08 INFO sshd: Service started
+2026-10-13 12:04:07 ERROR smbd: Authentication failed
+2026-10-13 12:06:26 INFO cups: Service started
+2026-10-13 12:09:38 INFO smbd: Update check finished
+2026-10-13 12:12:41 ERROR backup-agent: Timeout waiting for backend
+2026-10-13 12:18:09 WARNING nginx: Disk usage above 80%
+2026-10-13 12:18:39 ERROR nginx: Authentication failed
+2026-10-13 12:21:12 WARNING sshd: Queue length above threshold
+2026-10-13 12:28:09 INFO cron: Connection accepted
+2026-10-13 12:33:42 WARNING sshd: Slow response from upstream
+2026-10-13 12:38:46 WARNING smbd: Certificate expires in 14 days
+2026-10-13 12:39:29 INFO nginx: User session opened
+2026-10-13 12:43:42 WARNING backup-agent: Certificate expires in 14 days
+2026-10-13 12:49:16 INFO postfix: Connection accepted
+2026-10-13 12:52:04 INFO cups: Connection accepted
+2026-10-13 12:54:56 INFO nginx: Backup completed
+2026-10-13 12:58:57 INFO update-agent: Configuration reloaded
+2026-10-13 13:03:22 INFO smbd: Connection accepted
+2026-10-13 13:05:43 WARNING sshd: Retrying connection
+2026-10-13 13:08:57 INFO smbd: Update check finished
+2026-10-13 13:15:25 CRITICAL nginx: Out of memory, process killed
+2026-10-13 13:17:02 WARNING update-agent: Slow response from upstream
+2026-10-13 13:23:42 INFO cron: Connection accepted
+2026-10-13 13:30:38 INFO backup-agent: Backup completed
+2026-10-13 13:30:57 WARNING smbd: Retrying connection
+2026-10-13 13:31:43 INFO smbd: Update check finished
+2026-10-13 13:38:33 INFO sshd: Update check finished
+2026-10-13 13:43:37 ERROR update-agent: Cannot write to /var/spool
+2026-10-13 13:47:14 WARNING cups: Queue length above threshold
+2026-10-13 13:51:55 ERROR cron: Authentication failed
+2026-10-13 13:57:36 INFO backup-agent: Service started
+2026-10-13 14:01:39 WARNING cron: Slow response from upstream
+2026-10-13 14:03:37 ERROR sshd: Service failed to start
+2026-10-13 14:06:02 INFO postfix: Update check finished
+2026-10-13 14:09:24 INFO cups: Configuration reloaded
+2026-10-13 14:14:19 INFO sshd: Backup completed
+2026-10-13 14:20:43 ERROR update-agent: Connection refused
+2026-10-13 14:25:14 INFO cron: User session opened
+2026-10-13 14:30:52 WARNING update-agent: Disk usage above 80%
+2026-10-13 14:34:35 WARNING smbd: Retrying connection
+2026-10-13 14:36:36 INFO update-agent: User session opened
+2026-10-13 14:41:39 ERROR smbd: Authentication failed
+2026-10-13 14:47:57 INFO cron: Connection accepted
+2026-10-13 14:48:32 ERROR postfix: Authentication failed
+2026-10-13 14:51:52 INFO cron: Update check finished
+2026-10-13 14:53:11 ERROR update-agent: Service failed to start
+2026-10-13 14:56:40 INFO cron: User session opened
+2026-10-13 14:58:00 INFO nginx: Connection accepted
+2026-10-13 15:00:22 WARNING smbd: Certificate expires in 14 days
+2026-10-13 15:06:09 INFO sshd: User session opened
+2026-10-13 15:11:59 INFO postfix: Connection accepted
+2026-10-13 15:18:55 ERROR postfix: Timeout waiting for backend
+2026-10-13 15:19:32 WARNING cups: Queue length above threshold
+2026-10-13 15:23:59 WARNING update-agent: Queue length above threshold
+2026-10-13 15:28:58 WARNING cups: Disk usage above 80%
+2026-10-13 15:33:13 WARNING postfix: Queue length above threshold
+2026-10-13 15:38:49 INFO smbd: Update check finished
+2026-10-13 15:41:47 INFO cups: Service started
+2026-10-13 15:48:15 INFO smbd: Backup completed
+2026-10-13 15:53:48 WARNING backup-agent: Retrying connection
+2026-10-13 15:58:03 INFO postfix: Connection accepted
+2026-10-13 16:01:01 INFO cron: Update check finished
+2026-10-13 16:02:41 INFO update-agent: Connection accepted
+2026-10-13 16:06:39 INFO postfix: Update check finished
+2026-10-13 16:08:57 WARNING backup-agent: Retrying connection
+2026-10-13 16:14:26 INFO sshd: User session opened
+2026-10-13 16:15:42 INFO cron: Connection accepted
+2026-10-13 16:16:31 INFO nginx: User session opened
+2026-10-13 16:21:51 INFO backup-agent: Backup completed
+2026-10-13 16:25:49 INFO sshd: Backup completed
+2026-10-13 16:30:25 INFO postfix: Update check finished
+2026-10-13 16:34:29 WARNING smbd: Slow response from upstream
+2026-10-13 16:37:34 INFO cron: Service started
+2026-10-13 16:38:35 INFO nginx: Connection accepted
+2026-10-13 16:40:29 ERROR backup-agent: Cannot write to /var/spool
+2026-10-13 16:44:22 INFO postfix: Backup completed
+2026-10-13 16:47:07 CRITICAL cron: Out of memory, process killed
+2026-10-13 16:49:00 INFO cron: Service started
+2026-10-13 16:51:51 WARNING backup-agent: Retrying connection
+2026-10-13 16:57:21 WARNING postfix: Certificate expires in 14 days
+2026-10-13 17:00:52 INFO postfix: Configuration reloaded
+2026-10-13 17:03:33 INFO cron: Backup completed
+2026-10-13 17:07:37 INFO nginx: User session opened
+2026-10-13 17:08:28 INFO update-agent: Backup completed
+2026-10-13 17:09:42 CRITICAL postfix: Out of memory, process killed
+2026-10-13 17:10:45 INFO nginx: Configuration reloaded
+2026-10-13 17:14:39 INFO update-agent: Service started
+2026-10-13 17:17:15 INFO sshd: Connection accepted
+2026-10-13 17:23:58 INFO update-agent: User session opened
+2026-10-13 17:28:29 INFO update-agent: User session opened
+2026-10-13 17:29:36 INFO backup-agent: User session opened
+2026-10-13 17:32:33 WARNING cron: Queue length above threshold
+2026-10-13 17:39:08 INFO cron: Configuration reloaded
+2026-10-13 17:41:41 ERROR smbd: Service failed to start
+2026-10-13 17:44:10 ERROR update-agent: Connection refused
+2026-10-13 17:50:55 INFO cups: Update check finished
+2026-10-13 17:52:26 WARNING postfix: Disk usage above 80%
+2026-10-13 17:53:40 INFO nginx: Service started
+2026-10-13 18:00:37 ERROR update-agent: Cannot write to /var/spool
+2026-10-13 18:04:04 INFO cron: Service started
+2026-10-13 18:09:56 ERROR cups: Cannot write to /var/spool
+2026-10-13 18:13:22 WARNING smbd: Queue length above threshold
+2026-10-13 18:15:27 INFO sshd: User session opened
+2026-10-13 18:19:33 INFO sshd: Configuration reloaded
+2026-10-13 18:22:42 INFO cups: Backup completed
+2026-10-13 18:29:06 WARNING update-agent: Retrying connection
+2026-10-13 18:29:21 INFO smbd: Service started
+2026-10-13 18:34:48 WARNING backup-agent: Disk usage above 80%
+2026-10-13 18:35:02 WARNING sshd: Retrying connection
+2026-10-13 18:35:41 INFO cups: Backup completed
+2026-10-13 18:38:52 INFO postfix: User session opened
+2026-10-13 18:44:56 INFO backup-agent: Backup completed
+2026-10-13 18:49:28 WARNING backup-agent: Disk usage above 80%
+2026-10-13 18:55:59 INFO nginx: Update check finished
+2026-10-13 19:02:11 INFO update-agent: Connection accepted
+2026-10-13 19:09:07 INFO nginx: User session opened
+2026-10-13 19:11:12 WARNING update-agent: Certificate expires in 14 days
+2026-10-13 19:11:17 INFO sshd: Configuration reloaded
+2026-10-13 19:14:59 INFO nginx: User session opened
+2026-10-13 19:21:58 INFO smbd: Backup completed
+2026-10-13 19:24:02 INFO update-agent: Connection accepted
+2026-10-13 19:26:09 INFO update-agent: Update check finished
+2026-10-13 19:28:31 INFO smbd: Service started
+2026-10-13 19:33:43 WARNING smbd: Slow response from upstream
+2026-10-13 19:39:05 WARNING backup-agent: Queue length above threshold
+2026-10-13 19:40:34 WARNING cron: Retrying connection
+2026-10-13 19:41:02 ERROR backup-agent: Service failed to start
+2026-10-13 19:41:53 WARNING backup-agent: Queue length above threshold
+2026-10-13 19:45:44 INFO sshd: Configuration reloaded
+2026-10-13 19:47:55 INFO smbd: User session opened
+2026-10-13 19:51:31 WARNING sshd: Slow response from upstream
+2026-10-13 19:55:48 WARNING cups: Disk usage above 80%
+2026-10-13 19:58:40 ERROR cron: Timeout waiting for backend
+2026-10-13 20:00:36 CRITICAL postfix: Out of memory, process killed
+2026-10-13 20:01:39 INFO smbd: User session opened
+2026-10-13 20:06:41 WARNING nginx: Slow response from upstream
+2026-10-13 20:10:48 INFO backup-agent: Update check finished
+2026-10-13 20:11:11 ERROR postfix: Cannot write to /var/spool
+2026-10-13 20:11:29 WARNING sshd: Queue length above threshold
+2026-10-13 20:11:58 WARNING cups: Certificate expires in 14 days
+2026-10-13 20:15:51 INFO backup-agent: User session opened
+2026-10-13 20:19:31 INFO update-agent: Backup completed
+2026-10-13 20:20:57 WARNING update-agent: Certificate expires in 14 days
+2026-10-13 20:24:37 WARNING sshd: Slow response from upstream
+2026-10-13 20:26:27 INFO sshd: Backup completed
+2026-10-13 20:32:27 ERROR cron: Service failed to start
+2026-10-13 20:33:52 INFO cron: Backup completed
+2026-10-13 20:39:48 ERROR nginx: Cannot write to /var/spool
+2026-10-13 20:42:44 INFO smbd: User session opened
+2026-10-13 20:43:27 INFO smbd: Update check finished
+2026-10-13 20:46:56 INFO smbd: Configuration reloaded
+2026-10-13 20:53:53 INFO cups: Service started
+2026-10-13 20:57:04 WARNING cron: Queue length above threshold
+2026-10-13 21:01:29 ERROR smbd: Timeout waiting for backend
+2026-10-13 21:08:13 WARNING backup-agent: Queue length above threshold
+2026-10-13 21:10:10 INFO sshd: Update check finished
+2026-10-13 21:14:18 INFO cron: User session opened
+2026-10-13 21:15:07 INFO smbd: Update check finished
+2026-10-13 21:15:26 INFO sshd: Service started
+2026-10-13 21:18:53 WARNING cups: Retrying connection
+2026-10-13 21:22:15 INFO update-agent: Update check finished
+2026-10-13 21:27:24 INFO backup-agent: Update check finished
+2026-10-13 21:31:09 WARNING cron: Retrying connection
+2026-10-13 21:37:30 INFO cups: Configuration reloaded
+2026-10-13 21:38:06 INFO update-agent: User session opened
+2026-10-13 21:39:48 INFO smbd: Configuration reloaded
+2026-10-13 21:44:48 INFO cups: Service started
+2026-10-13 21:46:25 INFO backup-agent: Update check finished
+2026-10-13 21:49:21 INFO postfix: Backup completed
+2026-10-13 21:50:17 INFO update-agent: Update check finished
+2026-10-13 21:54:25 ERROR backup-agent: Cannot write to /var/spool
+2026-10-13 21:59:54 INFO postfix: Backup completed
+2026-10-13 22:06:29 ERROR backup-agent: Service failed to start
+2026-10-13 22:12:16 INFO backup-agent: Service started
+2026-10-13 22:19:01 INFO update-agent: Update check finished
+2026-10-13 22:19:54 WARNING cron: Disk usage above 80%
+2026-10-13 22:24:18 INFO backup-agent: Service started
+2026-10-13 22:28:26 WARNING nginx: Disk usage above 80%
+2026-10-13 22:31:14 INFO sshd: Configuration reloaded
+2026-10-13 22:37:39 WARNING update-agent: Queue length above threshold
+2026-10-13 22:38:41 INFO backup-agent: User session opened
+2026-10-13 22:39:38 INFO postfix: Service started
+2026-10-13 22:43:42 WARNING update-agent: Slow response from upstream
+2026-10-13 22:49:42 ERROR backup-agent: Connection refused
+2026-10-13 22:53:39 INFO cups: Update check finished
+2026-10-13 22:56:43 INFO nginx: Update check finished
+2026-10-13 23:02:38 INFO smbd: Backup completed
+2026-10-13 23:08:05 INFO cups: Backup completed
+2026-10-13 23:09:07 INFO update-agent: Update check finished
+2026-10-13 23:10:17 ERROR cups: Connection refused
+2026-10-13 23:10:48 INFO nginx: Service started
+2026-10-13 23:16:29 INFO cups: Update check finished
+2026-10-13 23:18:09 INFO postfix: User session opened
+2026-10-13 23:21:48 INFO cups: Update check finished
+2026-10-13 23:25:31 WARNING postfix: Disk usage above 80%
+2026-10-13 23:28:49 WARNING postfix: Certificate expires in 14 days
+2026-10-13 23:29:30 INFO update-agent: Connection accepted
+2026-10-13 23:34:25 INFO update-agent: Service started
+2026-10-13 23:39:46 WARNING backup-agent: Retrying connection
+2026-10-13 23:44:40 ERROR postfix: Authentication failed
+2026-10-13 23:49:57 INFO nginx: User session opened
+2026-10-13 23:52:37 INFO sshd: Service started
+2026-10-13 23:54:51 INFO cron: Connection accepted
+2026-10-13 23:57:35 WARNING sshd: Retrying connection
+2026-10-14 00:04:34 WARNING nginx: Retrying connection
+2026-10-14 00:11:23 WARNING smbd: Slow response from upstream
+2026-10-14 00:11:46 INFO backup-agent: Connection accepted
+2026-10-14 00:18:29 WARNING update-agent: Slow response from upstream
+2026-10-14 00:18:41 INFO smbd: User session opened
+2026-10-14 00:19:37 WARNING cups: Disk usage above 80%
+2026-10-14 00:23:46 INFO backup-agent: Connection accepted
+2026-10-14 00:27:27 INFO backup-agent: Backup completed
+2026-10-14 00:28:28 ERROR sshd: Authentication failed
+2026-10-14 00:32:34 INFO postfix: Update check finished
+2026-10-14 00:33:23 ERROR backup-agent: Service failed to start
+2026-10-14 00:36:20 INFO update-agent: Connection accepted
+2026-10-14 00:42:07 WARNING postfix: Queue length above threshold
+2026-10-14 00:43:06 INFO nginx: Configuration reloaded
+2026-10-14 00:44:19 INFO nginx: Backup completed
+2026-10-14 00:49:14 INFO cron: Configuration reloaded
+2026-10-14 00:53:07 WARNING sshd: Retrying connection
+2026-10-14 00:57:54 WARNING postfix: Slow response from upstream
+2026-10-14 01:00:52 ERROR update-agent: Timeout waiting for backend
+2026-10-14 01:06:41 INFO update-agent: Configuration reloaded
+2026-10-14 01:09:31 INFO nginx: User session opened
+2026-10-14 01:15:06 INFO sshd: Configuration reloaded
+2026-10-14 01:17:22 INFO smbd: Service started
+2026-10-14 01:22:22 INFO cups: Service started
+2026-10-14 01:24:45 INFO update-agent: User session opened
+2026-10-14 01:29:33 INFO postfix: User session opened
+2026-10-14 01:36:24 INFO cups: Connection accepted
+2026-10-14 01:38:07 WARNING smbd: Retrying connection
+2026-10-14 01:42:35 INFO cups: User session opened
+2026-10-14 01:43:19 INFO update-agent: Connection accepted
+2026-10-14 01:44:21 INFO backup-agent: Backup completed
+2026-10-14 01:46:01 INFO postfix: Connection accepted
+2026-10-14 01:49:56 INFO backup-agent: Service started
+2026-10-14 01:50:17 INFO sshd: User session opened
+2026-10-14 01:56:21 WARNING postfix: Retrying connection
+2026-10-14 01:59:36 INFO update-agent: Connection accepted
+2026-10-14 02:04:13 INFO cron: Service started
+2026-10-14 02:10:12 INFO sshd: Connection accepted
+2026-10-14 02:11:08 INFO nginx: User session opened
+2026-10-14 02:12:21 INFO backup-agent: Service started
+2026-10-14 02:16:06 INFO update-agent: Update check finished
+2026-10-14 02:20:26 INFO nginx: User session opened
+2026-10-14 02:24:45 CRITICAL cups: Filesystem mounted read-only
+2026-10-14 02:29:23 ERROR postfix: Cannot write to /var/spool
+2026-10-14 02:29:46 ERROR update-agent: Authentication failed
+2026-10-14 02:31:58 INFO cron: Update check finished
+2026-10-14 02:33:01 WARNING cron: Slow response from upstream
+2026-10-14 02:39:44 ERROR update-agent: Cannot write to /var/spool
+2026-10-14 02:41:25 INFO cups: Service started
+2026-10-14 02:41:46 INFO nginx: Service started
+2026-10-14 02:43:24 WARNING sshd: Retrying connection
+2026-10-14 02:46:45 INFO cron: User session opened
+2026-10-14 02:46:55 WARNING smbd: Slow response from upstream
+2026-10-14 02:51:49 WARNING backup-agent: Certificate expires in 14 days
+2026-10-14 02:56:34 INFO smbd: Service started
+2026-10-14 03:00:51 ERROR sshd: Connection refused
+2026-10-14 03:03:04 INFO smbd: Update check finished
+2026-10-14 03:06:42 INFO nginx: Update check finished
+2026-10-14 03:09:48 ERROR nginx: Authentication failed
+2026-10-14 03:14:46 INFO backup-agent: Configuration reloaded
+2026-10-14 03:20:24 WARNING cron: Disk usage above 80%
+2026-10-14 03:22:47 ERROR cups: Cannot write to /var/spool
+2026-10-14 03:23:14 INFO nginx: Backup completed
+2026-10-14 03:29:52 WARNING backup-agent: Certificate expires in 14 days
+2026-10-14 03:34:00 INFO cups: Configuration reloaded
+2026-10-14 03:35:41 INFO nginx: Connection accepted
+2026-10-14 03:38:34 INFO sshd: Service started
+2026-10-14 03:40:05 WARNING update-agent: Queue length above threshold
+2026-10-14 03:41:44 INFO update-agent: User session opened
+2026-10-14 03:42:51 INFO backup-agent: Service started
+2026-10-14 03:49:41 INFO smbd: Update check finished
+2026-10-14 03:55:59 INFO nginx: Service started
+2026-10-14 03:56:11 WARNING backup-agent: Slow response from upstream
+2026-10-14 04:00:06 ERROR cups: Connection refused
+2026-10-14 04:05:24 ERROR smbd: Cannot write to /var/spool
+2026-10-14 04:05:56 WARNING smbd: Slow response from upstream
+2026-10-14 04:07:14 INFO cron: Service started
+2026-10-14 04:13:57 INFO cups: Connection accepted
+2026-10-14 04:18:11 ERROR nginx: Timeout waiting for backend
+2026-10-14 04:23:40 INFO update-agent: Service started
+2026-10-14 04:24:39 ERROR smbd: Service failed to start
+2026-10-14 04:28:40 INFO cron: Update check finished
+2026-10-14 04:29:41 INFO nginx: Configuration reloaded
+2026-10-14 04:30:37 ERROR cron: Service failed to start
+2026-10-14 04:35:23 INFO update-agent: Backup completed
+2026-10-14 04:38:26 WARNING update-agent: Disk usage above 80%
+2026-10-14 04:43:50 INFO postfix: Service started
+2026-10-14 04:48:21 CRITICAL backup-agent: Out of memory, process killed
+2026-10-14 04:48:40 WARNING backup-agent: Queue length above threshold
+2026-10-14 04:51:19 INFO update-agent: Connection accepted
+2026-10-14 04:51:56 WARNING cron: Queue length above threshold
+2026-10-14 04:52:02 WARNING sshd: Disk usage above 80%
+2026-10-14 04:54:21 INFO update-agent: Connection accepted
+2026-10-14 05:01:15 WARNING nginx: Disk usage above 80%
+2026-10-14 05:03:49 INFO update-agent: Configuration reloaded
+2026-10-14 05:10:01 WARNING cron: Queue length above threshold
+2026-10-14 05:10:17 INFO backup-agent: Backup completed
+2026-10-14 05:16:44 INFO cron: Connection accepted
+2026-10-14 05:17:42 WARNING cups: Slow response from upstream
+2026-10-14 05:19:00 INFO sshd: User session opened
+2026-10-14 05:24:33 INFO cups: Connection accepted
+2026-10-14 05:26:58 INFO sshd: User session opened
+2026-10-14 05:29:42 INFO postfix: Update check finished
+2026-10-14 05:32:13 INFO smbd: User session opened
+2026-10-14 05:34:51 WARNING postfix: Retrying connection
+2026-10-14 05:35:07 INFO backup-agent: User session opened
+2026-10-14 05:38:28 INFO cups: User session opened
+2026-10-14 05:44:21 ERROR sshd: Connection refused
+2026-10-14 05:45:23 INFO sshd: Connection accepted
+2026-10-14 05:49:14 INFO backup-agent: Service started
+2026-10-14 05:53:34 INFO sshd: Configuration reloaded
+2026-10-14 05:59:09 INFO smbd: Configuration reloaded
+2026-10-14 06:01:04 WARNING cron: Disk usage above 80%
+2026-10-14 06:01:58 INFO nginx: Update check finished
+2026-10-14 06:03:06 ERROR postfix: Cannot write to /var/spool
+2026-10-14 06:04:18 INFO smbd: Connection accepted
+2026-10-14 06:11:17 WARNING update-agent: Queue length above threshold
+2026-10-14 06:17:51 INFO update-agent: Backup completed
+2026-10-14 06:19:08 WARNING backup-agent: Disk usage above 80%
+2026-10-14 06:25:55 INFO cron: User session opened
+2026-10-14 06:30:54 INFO sshd: Configuration reloaded
+2026-10-14 06:36:29 ERROR nginx: Service failed to start
+2026-10-14 06:38:51 ERROR update-agent: Connection refused
+2026-10-14 06:44:19 WARNING cron: Queue length above threshold
+2026-10-14 06:48:00 WARNING smbd: Certificate expires in 14 days
+2026-10-14 06:51:26 INFO cups: Update check finished
+2026-10-14 06:58:04 INFO backup-agent: User session opened
+2026-10-14 07:00:25 WARNING cups: Slow response from upstream
+2026-10-14 07:06:26 INFO postfix: Connection accepted
+2026-10-14 07:11:29 INFO cron: Update check finished
+2026-10-14 07:16:23 INFO cups: Backup completed
+2026-10-14 07:18:32 INFO cron: Configuration reloaded
+2026-10-14 07:18:57 WARNING postfix: Certificate expires in 14 days
+2026-10-14 07:25:01 INFO postfix: Backup completed
+2026-10-14 07:31:53 INFO sshd: Connection accepted
+2026-10-14 07:32:27 INFO backup-agent: Service started
+2026-10-14 07:34:21 INFO smbd: Backup completed
+2026-10-14 07:39:20 INFO smbd: User session opened
+2026-10-14 07:44:41 INFO smbd: Service started
+2026-10-14 07:48:57 INFO postfix: User session opened
+2026-10-14 07:54:05 INFO update-agent: Service started
+2026-10-14 07:57:14 INFO update-agent: Configuration reloaded
+2026-10-14 07:59:09 WARNING cron: Slow response from upstream
+2026-10-14 08:04:09 INFO update-agent: Configuration reloaded
+2026-10-14 08:10:32 INFO sshd: User session opened
+2026-10-14 08:16:50 INFO sshd: Update check finished
+2026-10-14 08:19:46 INFO nginx: User session opened
+2026-10-14 08:24:34 WARNING sshd: Queue length above threshold
+2026-10-14 08:30:47 INFO cups: Configuration reloaded
+2026-10-14 08:37:11 WARNING sshd: Certificate expires in 14 days
+2026-10-14 08:40:29 INFO update-agent: Backup completed
+2026-10-14 08:43:02 INFO nginx: Configuration reloaded
+2026-10-14 08:46:37 WARNING smbd: Retrying connection
+2026-10-14 08:47:47 INFO backup-agent: Service started
+2026-10-14 08:51:03 INFO cups: Configuration reloaded
+2026-10-14 08:57:36 INFO cups: Update check finished
+2026-10-14 09:00:54 INFO sshd: Backup completed
+2026-10-14 09:07:01 INFO cups: Backup completed
+2026-10-14 09:07:51 ERROR postfix: Connection refused
+2026-10-14 09:09:50 INFO cups: Connection accepted
+2026-10-14 09:15:34 WARNING cups: Slow response from upstream
+2026-10-14 09:17:18 WARNING cups: Slow response from upstream
+2026-10-14 09:22:05 INFO backup-agent: Update check finished
+2026-10-14 09:25:47 WARNING smbd: Queue length above threshold
+2026-10-14 09:32:10 INFO update-agent: User session opened
+2026-10-14 09:36:29 INFO smbd: Update check finished
+2026-10-14 09:36:55 CRITICAL backup-agent: Out of memory, process killed
+2026-10-14 09:42:00 INFO sshd: User session opened
+2026-10-14 09:43:53 WARNING nginx: Queue length above threshold
+2026-10-14 09:47:14 ERROR cron: Cannot write to /var/spool
+2026-10-14 09:48:11 INFO smbd: Configuration reloaded
+2026-10-14 09:52:24 INFO sshd: Backup completed
+2026-10-14 09:53:55 INFO cron: Connection accepted
+2026-10-14 09:58:22 INFO postfix: Connection accepted
+2026-10-14 10:01:37 INFO nginx: Configuration reloaded
+2026-10-14 10:07:27 ERROR nginx: Timeout waiting for backend
+2026-10-14 10:10:22 INFO smbd: Connection accepted
+2026-10-14 10:14:49 WARNING backup-agent: Certificate expires in 14 days
+2026-10-14 10:16:05 INFO backup-agent: Service started
+2026-10-14 10:16:36 WARNING smbd: Disk usage above 80%
+2026-10-14 10:22:19 INFO postfix: Connection accepted
+2026-10-14 10:22:29 ERROR nginx: Service failed to start
+2026-10-14 10:26:42 INFO nginx: Service started
+2026-10-14 10:30:17 INFO cron: Backup completed
+2026-10-14 10:32:36 ERROR cups: Connection refused
+2026-10-14 10:34:40 INFO backup-agent: Configuration reloaded
+2026-10-14 10:41:35 ERROR smbd: Timeout waiting for backend
+2026-10-14 10:44:55 INFO update-agent: Configuration reloaded
+2026-10-14 10:48:34 INFO sshd: Backup completed
+2026-10-14 10:51:25 INFO smbd: Connection accepted
+2026-10-14 10:55:03 INFO nginx: User session opened
+2026-10-14 10:57:00 WARNING cups: Disk usage above 80%
+2026-10-14 11:00:36 ERROR nginx: Authentication failed
+2026-10-14 11:05:09 WARNING cups: Retrying connection
+2026-10-14 11:07:47 ERROR smbd: Connection refused
+2026-10-14 11:11:45 CRITICAL cron: Filesystem mounted read-only
+2026-10-14 11:14:54 INFO update-agent: Connection accepted
+2026-10-14 11:21:40 INFO cups: Connection accepted
+2026-10-14 11:25:12 INFO cups: Configuration reloaded
+2026-10-14 11:31:35 INFO sshd: Service started
+2026-10-14 11:35:17 INFO cron: Update check finished
+2026-10-14 11:37:24 WARNING smbd: Queue length above threshold
+2026-10-14 11:41:09 INFO smbd: User session opened
+2026-10-14 11:44:33 ERROR cron: Timeout waiting for backend
+2026-10-14 11:49:20 ERROR cron: Cannot write to /var/spool
+2026-10-14 11:49:40 INFO update-agent: Service started
+2026-10-14 11:55:00 INFO cron: Service started
+2026-10-14 11:55:18 INFO smbd: Configuration reloaded
+2026-10-14 11:56:38 INFO sshd: Service started
+2026-10-14 12:00:42 INFO cron: Backup completed
+2026-10-14 12:07:00 INFO backup-agent: Service started
+2026-10-14 12:12:39 WARNING nginx: Slow response from upstream
+2026-10-14 12:13:29 INFO sshd: Backup completed
+2026-10-14 12:13:58 INFO postfix: Backup completed
+2026-10-14 12:16:34 INFO cups: Service started
+2026-10-14 12:20:47 INFO cups: Backup completed
+2026-10-14 12:24:15 INFO backup-agent: Service started
+2026-10-14 12:28:47 INFO smbd: User session opened
+2026-10-14 12:35:08 ERROR cron: Authentication failed
+2026-10-14 12:37:57 INFO sshd: User session opened
+2026-10-14 12:40:56 INFO update-agent: Service started
+2026-10-14 12:46:22 INFO cron: Service started
+2026-10-14 12:50:27 WARNING update-agent: Disk usage above 80%
+2026-10-14 12:53:41 INFO update-agent: Backup completed
+2026-10-14 12:58:18 WARNING nginx: Disk usage above 80%
+2026-10-14 13:00:47 INFO sshd: Backup completed
+2026-10-14 13:04:27 WARNING postfix: Queue length above threshold
+2026-10-14 13:09:54 INFO cron: Configuration reloaded
+2026-10-14 13:11:01 INFO smbd: Service started
+2026-10-14 13:16:57 INFO postfix: Connection accepted
+2026-10-14 13:22:20 INFO update-agent: Connection accepted
+2026-10-14 13:25:37 ERROR update-agent: Connection refused
+2026-10-14 13:27:12 INFO postfix: Service started
+2026-10-14 13:32:01 ERROR cups: Timeout waiting for backend
+2026-10-14 13:34:18 INFO cups: Connection accepted
+2026-10-14 13:37:34 WARNING cups: Queue length above threshold
+2026-10-14 13:43:58 ERROR sshd: Cannot write to /var/spool
+2026-10-14 13:44:25 INFO update-agent: Connection accepted
+2026-10-14 13:49:49 WARNING cron: Queue length above threshold
+2026-10-14 13:54:04 WARNING smbd: Disk usage above 80%
+2026-10-14 13:54:29 INFO smbd: Backup completed
+2026-10-14 13:58:04 INFO cups: Backup completed
+2026-10-14 14:02:48 INFO cups: Service started
+2026-10-14 14:07:41 INFO postfix: User session opened
+2026-10-14 14:14:34 INFO cron: User session opened
+2026-10-14 14:15:51 INFO smbd: User session opened
+2026-10-14 14:20:37 INFO nginx: Connection accepted
+2026-10-14 14:24:09 INFO update-agent: Update check finished
+2026-10-14 14:27:41 WARNING cups: Disk usage above 80%
+2026-10-14 14:30:04 INFO cron: Backup completed
+2026-10-14 14:34:31 INFO cron: Configuration reloaded
+2026-10-14 14:36:08 INFO cron: Backup completed
+2026-10-14 14:42:41 INFO update-agent: User session opened
+2026-10-14 14:49:40 WARNING sshd: Certificate expires in 14 days
+2026-10-14 14:51:17 WARNING sshd: Retrying connection
+2026-10-14 14:56:38 WARNING backup-agent: Slow response from upstream
+2026-10-14 15:03:33 INFO sshd: User session opened
+2026-10-14 15:09:56 INFO postfix: Service started
+2026-10-14 15:15:00 INFO postfix: User session opened
+2026-10-14 15:17:18 INFO nginx: Connection accepted
+2026-10-14 15:21:48 ERROR cups: Timeout waiting for backend
+2026-10-14 15:25:27 INFO sshd: User session opened
+2026-10-14 15:31:07 INFO update-agent: User session opened
+2026-10-14 15:37:22 INFO sshd: Backup completed
+2026-10-14 15:41:37 INFO smbd: Backup completed
+2026-10-14 15:41:52 WARNING cron: Queue length above threshold
+2026-10-14 15:47:51 INFO sshd: Update check finished
+2026-10-14 15:49:53 WARNING nginx: Queue length above threshold
+2026-10-14 15:51:11 INFO cron: Service started
+2026-10-14 15:53:00 INFO postfix: Service started
+2026-10-14 15:59:33 WARNING sshd: Slow response from upstream
+2026-10-14 16:03:46 INFO postfix: Service started
+2026-10-14 16:08:45 INFO cups: Connection accepted
+2026-10-14 16:10:31 INFO update-agent: Connection accepted
+2026-10-14 16:16:01 ERROR smbd: Connection refused
+2026-10-14 16:21:18 INFO update-agent: Configuration reloaded
+2026-10-14 16:22:52 INFO sshd: Backup completed
+2026-10-14 16:23:06 INFO update-agent: Service started
+2026-10-14 16:27:42 INFO backup-agent: Backup completed
+2026-10-14 16:33:06 INFO update-agent: Update check finished
+2026-10-14 16:34:58 INFO nginx: Service started
+2026-10-14 16:41:49 INFO postfix: Configuration reloaded
+2026-10-14 16:48:26 INFO nginx: Update check finished
+2026-10-14 16:50:00 INFO sshd: Service started
+2026-10-14 16:50:48 WARNING postfix: Slow response from upstream
+2026-10-14 16:53:02 INFO smbd: Service started
+2026-10-14 16:54:33 ERROR nginx: Timeout waiting for backend
+2026-10-14 16:55:58 INFO postfix: Connection accepted
+2026-10-14 16:56:32 WARNING cron: Retrying connection
+2026-10-14 16:58:32 INFO nginx: Service started
+2026-10-14 17:02:53 INFO cron: Backup completed
+2026-10-14 17:09:53 INFO update-agent: Connection accepted
+2026-10-14 17:15:52 ERROR cups: Connection refused
+2026-10-14 17:22:12 WARNING sshd: Certificate expires in 14 days
+2026-10-14 17:28:34 INFO nginx: User session opened
+2026-10-14 17:30:14 ERROR update-agent: Authentication failed
+2026-10-14 17:33:54 INFO sshd: Backup completed
+2026-10-14 17:36:11 INFO update-agent: Backup completed
+2026-10-14 17:37:32 INFO backup-agent: Service started
+2026-10-14 17:44:06 INFO sshd: Service started
+2026-10-14 17:50:10 INFO cron: User session opened
+2026-10-14 17:55:14 INFO backup-agent: User session opened
+2026-10-14 18:01:11 INFO update-agent: Backup completed
+2026-10-14 18:03:58 INFO smbd: User session opened
+2026-10-14 18:09:37 INFO nginx: User session opened
+2026-10-14 18:15:05 ERROR nginx: Timeout waiting for backend
+2026-10-14 18:17:02 WARNING postfix: Slow response from upstream
+2026-10-14 18:23:52 WARNING smbd: Disk usage above 80%
+2026-10-14 18:24:39 INFO nginx: Connection accepted
+2026-10-14 18:25:58 INFO nginx: Connection accepted
+2026-10-14 18:28:29 WARNING sshd: Retrying connection
+2026-10-14 18:35:20 ERROR backup-agent: Connection refused
+2026-10-14 18:37:35 INFO smbd: User session opened
+2026-10-14 18:39:36 WARNING sshd: Certificate expires in 14 days
+2026-10-14 18:42:36 WARNING sshd: Queue length above threshold
+2026-10-14 18:45:35 INFO update-agent: Update check finished
+2026-10-14 18:50:41 INFO update-agent: Backup completed
+2026-10-14 18:52:54 INFO backup-agent: Connection accepted
+2026-10-14 18:58:19 INFO sshd: Connection accepted
+2026-10-14 19:05:16 INFO cron: Update check finished
+2026-10-14 19:08:00 INFO cron: Configuration reloaded
+2026-10-14 19:09:54 INFO sshd: Update check finished
+2026-10-14 19:13:38 INFO backup-agent: Update check finished
+2026-10-14 19:15:54 INFO sshd: Backup completed
+2026-10-14 19:20:29 WARNING cups: Disk usage above 80%
+2026-10-14 19:24:39 WARNING update-agent: Disk usage above 80%
+2026-10-14 19:31:30 INFO cron: Connection accepted
+2026-10-14 19:34:00 INFO sshd: Update check finished
+2026-10-14 19:37:14 INFO nginx: Update check finished
+2026-10-14 19:41:35 INFO postfix: User session opened
+2026-10-14 19:44:38 INFO cron: Update check finished
+2026-10-14 19:51:07 INFO postfix: Backup completed
+2026-10-14 19:56:07 INFO cron: Backup completed
+2026-10-14 19:56:38 WARNING cups: Disk usage above 80%
+2026-10-14 19:58:09 INFO backup-agent: User session opened
+2026-10-14 19:59:05 INFO cron: Backup completed
+2026-10-14 20:02:10 INFO update-agent: Backup completed
+2026-10-14 20:08:26 WARNING postfix: Disk usage above 80%
+2026-10-14 20:13:06 INFO cups: Backup completed
+2026-10-14 20:16:59 INFO backup-agent: Service started
+2026-10-14 20:23:55 WARNING cups: Queue length above threshold
+2026-10-14 20:26:09 INFO nginx: Connection accepted
+2026-10-14 20:32:13 WARNING update-agent: Slow response from upstream
+2026-10-14 20:34:27 INFO smbd: Configuration reloaded
+2026-10-14 20:36:33 WARNING sshd: Slow response from upstream
+2026-10-14 20:36:43 INFO cups: User session opened
+2026-10-14 20:36:48 INFO backup-agent: Connection accepted
+2026-10-14 20:43:14 INFO update-agent: Service started
+2026-10-14 20:44:26 INFO nginx: Configuration reloaded
+2026-10-14 20:47:27 INFO cron: Configuration reloaded
+2026-10-14 20:51:32 WARNING backup-agent: Certificate expires in 14 days
+2026-10-14 20:54:53 WARNING backup-agent: Certificate expires in 14 days
+2026-10-14 21:01:00 ERROR cups: Timeout waiting for backend
+2026-10-14 21:04:57 WARNING cups: Slow response from upstream
+2026-10-14 21:09:39 CRITICAL sshd: Out of memory, process killed
+2026-10-14 21:16:31 INFO cron: User session opened
+2026-10-14 21:19:14 INFO sshd: Update check finished
+2026-10-14 21:23:03 ERROR update-agent: Connection refused
+2026-10-14 21:28:48 INFO smbd: Backup completed
+2026-10-14 21:33:07 INFO smbd: Backup completed
+2026-10-14 21:37:16 INFO cups: Configuration reloaded
+2026-10-14 21:41:35 INFO cups: User session opened
+2026-10-14 21:44:02 INFO cron: Service started
+2026-10-14 21:45:33 ERROR backup-agent: Timeout waiting for backend
+2026-10-14 21:52:21 INFO smbd: Configuration reloaded
+2026-10-14 21:58:34 INFO cups: User session opened
+2026-10-14 22:05:28 INFO update-agent: Backup completed
+2026-10-14 22:09:09 INFO update-agent: User session opened
+2026-10-14 22:10:57 INFO update-agent: Configuration reloaded
+2026-10-14 22:12:55 ERROR sshd: Cannot write to /var/spool
+2026-10-14 22:13:26 INFO update-agent: Service started
+2026-10-14 22:20:04 WARNING backup-agent: Slow response from upstream
+2026-10-14 22:24:18 WARNING nginx: Disk usage above 80%
+2026-10-14 22:28:24 INFO sshd: Service started
+2026-10-14 22:34:02 INFO cups: User session opened
+2026-10-14 22:38:17 INFO backup-agent: Service started
+2026-10-14 22:44:20 INFO cups: Service started
+2026-10-14 22:50:47 ERROR cups: Service failed to start
+2026-10-14 22:56:00 INFO cron: Backup completed
+2026-10-14 22:59:03 ERROR backup-agent: Service failed to start

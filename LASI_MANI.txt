@@ -1,0 +1,31 @@
+PĀRBAUDES DARBS — PROGRAMMATŪRAS UZTURĒŠANA
+2. variants
+
+Katram uzdevumam ir savs fails. Pildi pēc kārtas: vispirms A, tad B, tad C.
+
+A faili — kods ir salauzts. Atrodi un salabo.
+B faili — kods ir iesākts. Aizpildi vietu, kur stāv TODO.
+C faili — tukša lapa. Uzraksti visu pats.
+
+Python failu atver ar IDLE: labais klikšķis, Edit with IDLE. Palaist: F5.
+
+PowerShell failu palaiž PowerShell logā ar komandu .\faila_nosaukums.ps1
+Ja izpildes politika to neļauj, to savam lietotājam var mainīt pats:
+    Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+
+Fails sistema.log jātur tajā pašā mapē, kur Python skripti.
+
+Katru failu pēc pabeigšanas saglabā.
+
+IESNIEGŠANA
+Visus failus augšupielādē savā GitHub repozitorijā un saiti iesūti pasniedzējam.
+Kopā ar kodu repozitorijā jābūt failam skaidrojumi.txt ar atbildēm uz abiem
+rakstiskajiem jautājumiem.
+
+Drīkst izmantot savus pierakstus. Mākslīgā intelekta rīkus izmantot nav atļauts.
+
+MEKLĒŠANA
+Meklēt internetā drīkst, bet MI ģenerētas atbildes izmantot nav atļauts - arī ne
+Google AI kopsavilkumu (AI Overview) virs rezultātiem. Lai tas neparādītos,
+meklējuma BEIGĀS pieraksti -ai, piemēram:    python csv raksti -ai
+Ja kopsavilkums tomēr parādās, to nelasa un neizmanto.
