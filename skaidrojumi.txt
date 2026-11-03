@@ -1,4 +1,4 @@
 J1
-WIP
+Es ieskatītos failā, lai pārliecinātos, kur un kā ir parādīts laiks, un tad izveidotu nelielu skriptu kas sākumā no faila paņem tikai kļūdas, un tad nolasa laiku pēc stundas un saskaita, kurā stundā visbiežāk tiek izvadītas kļūdas.
 J2
 WIP
